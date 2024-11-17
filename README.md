@@ -1,11 +1,9 @@
 The Color of Music
 ===============
+A 3D player piano with highly configurable audio effects and graphical visualizers.
 
-3D Piano player demo. Uses three.js and MIDI.js
-A Chromesthesia Visualizer, 
-by Brendan Zelikman and Tan Vu
+See the demo live at https://brendanzelikman.github.io/the-color-of-music/
 
-See the demo live at http://www.borjamorales.com/3d-piano-player/
 <h2>Features</h2>
 
 **Models:** Keyboard, Sphere, Wave  
@@ -16,6 +14,8 @@ See the demo live at http://www.borjamorales.com/3d-piano-player/
 _and more!_
 
 <h2>Acknowledgments</h2>
+
+This project was intended to model and spread awareness for chromesthesia (a neurological link between sound and color).
 
 Borja Morales, http://www.borjamorales.com/3d-piano-player/  
 VSKeys, https://deegzc.github.io/VSKeys/  
